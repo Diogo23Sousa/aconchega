@@ -1,9 +1,7 @@
 [build]
-command = "npm run build"
-publish = "/build"
-base = "/"
-
+  publish = "dist/aconchega"
+  command = "ng build --prod"
 [[redirects]]
-    from = "/*"
-    to = "/index.html"
-    status = 200
+  from = "/*"
+  to = "/index.html"
+  status = 200
