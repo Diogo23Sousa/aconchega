@@ -13,3 +13,5 @@ Installation Protocol:
 3. Move inside the main folder -> run: npm start
 
 4. Open your browser and check the website running locally: http://localhost:4200/
+
+The website is also builded in Netlify: https://aconchega.netlify.app/
