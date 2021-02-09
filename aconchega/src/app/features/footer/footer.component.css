@@ -2,9 +2,7 @@
 .page-footer {
     background-color:#ffffff;
     text-align:center;
-    display:block;
-    margin-top: 60px;
-    margin-bottom: 30px;
+    margin-top: 300px;
   }
   
   /* TITLE H5 */
@@ -18,13 +16,6 @@
   /* ICONS */
   .page-footer li {
     font-size: 14px;
-  }
-  
-  /* ICONS */
-  .page-footer ul {
-    list-style-type:none;
-    padding-left:0;
-    line-height:1.7;
   }
   
   /* SOCIAL ICONS */
@@ -55,17 +46,6 @@
     justify-content:center;
     -ms-flex-direction:column;
     flex-direction:column;
-  }
-  
-  /* FOOTER COPYRIGHT */
-  .page-footer.dark .footer-copyright {
-    background-color:#ffffff;
-  }
-  
-  .page-footer .footer-copyright {
-    background-color:#fff;
-    text-align:center;
-    border:1px solid #ededed;
   }
   
   
