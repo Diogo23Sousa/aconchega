@@ -1,8 +1,16 @@
 /* FOOTER */
+.footer {
+  position: relative;
+  bottom: 0;
+  background-color:rgb(255, 255, 255);
+  color:White;
+  width: 100%;
+
+}
+
 .page-footer {
     background-color:#ffffff;
     text-align:center;
-    margin-top: 300px;
   }
   
   /* TITLE H5 */

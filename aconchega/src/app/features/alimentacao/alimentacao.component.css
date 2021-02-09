@@ -1,0 +1,12 @@
+  @media (min-width:576px) {
+    .content {
+      min-height:900px;
+    }
+  
+  }
+  
+  @media (max-width: 575px) {
+    .content {
+      min-height: 1500px;
+    }
+}
