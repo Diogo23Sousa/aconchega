@@ -8,13 +8,13 @@
 
   @media (min-width:576px) {
     .content {
-      min-height:1000px;
+      min-height:1100px;
     }
   
   }
   
   @media (max-width: 575px) {
     .content {
-      min-height: 2300px;
+      min-height: 2700px;
     }
 }
